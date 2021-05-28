@@ -34,6 +34,8 @@ public class Ex20 {
 					sc.close();
 					
 					break;
+				} else {
+					iRandom = (int)(Math.random() * 100 +1);
 				}
 				
 			} else {
